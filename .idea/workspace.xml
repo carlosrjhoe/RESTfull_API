@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5a19c65-f142-40ce-8f2b-4502e497ee56" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/api/viiewset.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/api/viiewset.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/library/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +57,7 @@
     "Python.popular_api.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/joepe/PycharmProjects/RESTfull_API/books",
     "settings.editor.selected.configurable": "preferences.pluginManager"

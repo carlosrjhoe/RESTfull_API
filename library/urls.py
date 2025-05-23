@@ -20,7 +20,7 @@ from rest_framework import routers
 from books.api import viiewset as booksviewsets
 
 route = routers.DefaultRouter()
-route.register(r'books/',booksviewsets.BooksViewset,basename='Books')
+route.register(r'books',booksviewsets.BooksViewset,basename='Books')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
